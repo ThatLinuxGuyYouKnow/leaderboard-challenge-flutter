@@ -2,7 +2,7 @@
 
 A leaderboard application built with Flutter for a coding challenge.
 
-It's live [here]('https://leaderboard-live.netlify.app/')
+It's live [here](https://leaderboard-live.netlify.app/)
 ## Objective
 Create a dynamic leaderboard component that updates automatically at a regular interval.
 
